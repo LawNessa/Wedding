@@ -12,7 +12,7 @@ body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif; }
 
 hr {
-  border-color: #F05F40;
+  border-color: #FFC0CB;
   border-width: 3px;
   max-width: 50px; }
 
@@ -23,9 +23,9 @@ a {
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
-  color: #F05F40; }
+  color: #FFC0CB; }
   a:hover, a:focus {
-    color: #f05f40; }
+    color: #FFC0CB; }
 
 h1,
 h2,
